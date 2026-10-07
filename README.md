@@ -2,7 +2,7 @@
 
 An unofficial community project with modified Nebula clients and a Windows
 test build. The current beta release provides an Android APK and a standalone
-Windows client that launches without the resolution selector.
+Windows client.
 
 > **Disclaimer:** This is not an official Nebula Technologies product and is
 > not affiliated with or endorsed by Nebula Technologies. Use it at your own

@@ -15,7 +15,7 @@ Windows client.
 | Platform | Download | Description |
 |---|---|---|
 | Android | [Better-nebula-v1.5.4.apk](https://github.com/Nerdiolar/Better-Nebula/releases/download/1.5.4/Better-nebula-v1.5.4.apk) | Modified Android client |
-| Windows | [Better-Nebula-PC-Test-Setup.exe](https://github.com/Nerdiolar/Better-Nebula/releases/download/1.5.4/Better-Nebula-PC-Test-Setup.exe) | Complete separate client; opens without the selector |
+| Windows | [Better-Nebula-PC-Test-Setup.exe](https://github.com/Nerdiolar/Better-Nebula/releases/download/1.5.4/Better-Nebula-PC-Test-Setup.exe) | Complete separate client |
 
 Download only from the repository's **Releases** page. Do not download or
 install files from unverified mirrors.
@@ -51,7 +51,7 @@ signature or application identity from the official app. Android may therefore
 refuse to install it over an existing copy. Check that you can sign in again
 before removing an existing app.
 
-## Windows Installation (No Selector)
+## Windows Installation
 
 1. Download `Better-Nebula-PC-Test-Setup.exe` from the
    [1.5.4 release assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.4).

@@ -26,8 +26,7 @@ install files from unverified mirrors.
   controls when a controller is connected.
 - Adds an option to disable mouse control through touchscreen input.
 - Improves Android TV support.
-- Adds resolution options up to 2K and 4K, and refresh-rate options up to
-  120 FPS.
+- Adds resolution options up to 2K and 4K, and refresh-rate options up to 120 FPS (One thing is that 4K and 2K may not work; if it doesn't work, disable the option called "Ask the machine to switch to custom resolutions").
 - Includes adjustments intended to reduce freezes and unexpected streaming
   interruptions.
 - Includes general compatibility and stability improvements.

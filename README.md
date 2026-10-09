@@ -2,7 +2,7 @@
 
 An unofficial community project with modified Nebula clients and a Windows
 test build. The current beta release provides an Android APK and a standalone
-Windows client.
+Windows client that launches without the resolution selector.
 
 > **Disclaimer:** This is not an official Nebula Technologies product and is
 > not affiliated with or endorsed by Nebula Technologies. Use it at your own
@@ -15,10 +15,15 @@ Windows client.
 | Platform | Download | Description |
 |---|---|---|
 | Android | [Better-nebula-v1.5.4.apk](https://github.com/Nerdiolar/Better-Nebula/releases/download/1.5.4/Better-nebula-v1.5.4.apk) | Modified Android client |
-| Windows | [Better-Nebula-PC-Test-Setup.exe](https://github.com/Nerdiolar/Better-Nebula/releases/download/1.5.4/Better-Nebula-PC-Test-Setup.exe) | Complete separate client |
+| Windows | [Better-Nebula-PC-Test-Setup.exe](https://github.com/Nerdiolar/Better-Nebula/releases/download/1.5.4/Better-Nebula-PC-Test-Setup.exe) | Complete separate client; opens without the selector |
 
 Download only from the repository's **Releases** page. Do not download or
 install files from unverified mirrors.
+
+## Community
+
+Join the [Better Nebula Discord server](https://discord.gg/JyGc2SRB2V) for
+community discussion and support.
 
 ## What's New in 1.5.4
 
@@ -26,7 +31,8 @@ install files from unverified mirrors.
   controls when a controller is connected.
 - Adds an option to disable mouse control through touchscreen input.
 - Improves Android TV support.
-- Adds resolution options up to 2K and 4K, and refresh-rate options up to 120 FPS (One thing is that 4K and 2K may not work; if it doesn't work, disable the option called "Ask the machine to switch to custom resolutions").
+- Adds resolution options up to 2K and 4K, and refresh-rate options up to
+  120 FPS.
 - Includes adjustments intended to reduce freezes and unexpected streaming
   interruptions.
 - Includes general compatibility and stability improvements.
@@ -50,7 +56,7 @@ signature or application identity from the official app. Android may therefore
 refuse to install it over an existing copy. Check that you can sign in again
 before removing an existing app.
 
-## Windows Installation
+## Windows Installation (No Selector)
 
 1. Download `Better-Nebula-PC-Test-Setup.exe` from the
    [1.5.4 release assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.4).
@@ -118,6 +124,7 @@ official repository Release page.
   account credentials.
 - The Windows test client may use the existing local Nebula profile, so its
   settings and sign-in state can be shared with the original installation.
+- Do not publish `Nebula.ini`, session files, authentication tokens, private
   keys, or unreviewed logs. They may contain credentials or other private
   information.
 - When reporting a problem, include the release version, device/OS, selected

@@ -10,7 +10,7 @@ Windows client that launches without the resolution selector.
 
 ## Current Release
 
-**Beta 1.5.4** — [View the release and all assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.4)
+**Beta 1.5.5** — [View the release and all assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.5)
 
 | Platform | Download | Description |
 |---|---|---|
@@ -25,26 +25,10 @@ install files from unverified mirrors.
 Join the [Better Nebula Discord server](https://discord.gg/JyGc2SRB2V) for
 community discussion and support.
 
-## What's New in 1.5.4
-
-- Automatically detects a connected controller and hides on-screen touch
-  controls when a controller is connected.
-- Adds an option to disable mouse control through touchscreen input.
-- Improves Android TV support.
-- Adds resolution options up to 2K and 4K, and refresh-rate options up to
-  120 FPS.
-- Includes adjustments intended to reduce freezes and unexpected streaming
-  interruptions.
-- Includes general compatibility and stability improvements.
-
-Actual resolution, frame rate, latency, and stability depend on the device,
-display, decoder, network, game, and streaming server. Selecting 4K or 120 FPS
-does not guarantee the server can deliver that mode.
-
 ## Android Installation
 
 1. Download `Better-nebula-v1.5.4.apk` from the
-   [1.5.4 release assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.4).
+   [1.5.5 release assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.5).
 2. Open the APK on your Android device.
 3. If prompted, allow your browser or file manager to install apps from that
    source.
@@ -59,7 +43,7 @@ before removing an existing app.
 ## Windows Installation (No Selector)
 
 1. Download `Better-Nebula-PC-Test-Setup.exe` from the
-   [1.5.4 release assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.4).
+   [1.5.5 release assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.4).
 2. Run the installer and choose an installation folder.
 3. Open **Start Menu → Better Nebula - Test Direct → Open Better Nebula (No Selector)**.
 4. Sign in if requested.

@@ -10,7 +10,7 @@ Windows client that launches without the resolution selector.
 
 ## Current Release
 
-**Beta 1.5.5** — [View the release and all assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.5)
+**Beta 1.5.5** — [View the release and all assets](https://github.com/Nerdiolar/Better-Nebula/releases/tag/1.5.5-v2)
 
 | Platform | Download | Description |
 |---|---|---|
